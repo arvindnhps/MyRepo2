@@ -15,5 +15,3 @@ test6
 test2
 test3
 test9
-eclipse apple
-eclipse mango
