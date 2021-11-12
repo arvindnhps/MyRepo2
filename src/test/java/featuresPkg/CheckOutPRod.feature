@@ -6,3 +6,5 @@ Then homepage is displayed
 And all cards are displayed
 p1
 p2
+apple git repo
+mango git repo
