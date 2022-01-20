@@ -23,6 +23,7 @@ public class Steps {
 		System.out.println("five");
 		System.out.println("six");
 		System.out.println("seven");
+		System.out.println("eight");
 	}
 
 	@Then("^all cards are displayed$")
