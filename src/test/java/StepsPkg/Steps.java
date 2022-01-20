@@ -30,6 +30,7 @@ public class Steps {
 		System.out.println("seven");
 		System.out.println("eight");
 		System.out.println("nine");
+		System.out.println("ten");
 	
 
 	}
