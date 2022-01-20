@@ -19,7 +19,8 @@ public class Steps {
 	@Then("^homepage is displayed$")
 	public void homepage_is_displayed() throws Throwable {
 		System.out.println("three");
-
+		System.out.println("four");
+		System.out.println("five");
 	}
 
 	@Then("^all cards are displayed$")
