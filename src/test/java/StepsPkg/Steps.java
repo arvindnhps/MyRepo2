@@ -32,7 +32,7 @@ public class Steps {
 		System.out.println("nine");
 		System.out.println("ten");
 		System.out.println("eleven");
-	
+		System.out.println("twelve");
 
 	}
 
