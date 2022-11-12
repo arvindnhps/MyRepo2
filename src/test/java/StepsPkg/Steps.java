@@ -13,6 +13,7 @@ public class Steps {
 	@When("^user logs in with valid un and pw$")
 	public void user_logs_in_with_valid_un_and_pw() throws Throwable {
 		System.out.println("two");
+		System.out.println("two");
 
 	}
 
