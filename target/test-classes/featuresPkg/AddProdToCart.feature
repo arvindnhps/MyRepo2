@@ -11,7 +11,7 @@ github copy
 Then homepage is displayed
 And all cards are displayed
 test1
-test6
+test6sdsdws
 test2
 test3
 test9sdsd
