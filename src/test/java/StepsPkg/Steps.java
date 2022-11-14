@@ -8,7 +8,8 @@ public class Steps {
 	@Given("^User is on netbanking login page$")
 	public void user_is_on_netbanking_login_page() throws Throwable {
 	System.out.println("one");
-        System.out.println("onenew one rep two");
+    System.out.println("one rep two three");
+    System.out.println("onenew one rep two"); // my new onenew suda-rada
 
 	}
 
