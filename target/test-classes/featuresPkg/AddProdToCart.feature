@@ -7,7 +7,7 @@ When user logs in with valid un and pw
 Then homepage is displayed
 test7
 test8 github copy
-lovely update by owner
+lovely update by owner master commit2
 github copy
 Then homepage is displayed
 And all cards are displayed
