@@ -5,7 +5,7 @@ Given User is on netbanking login page
 test4 added from github
 When user logs in with valid un and pw
 Then homepage is displayed
-test7
+test7 c4
 test8 github copy
 lovely update by owner master commit2
 github copy
