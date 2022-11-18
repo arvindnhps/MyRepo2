@@ -2,7 +2,7 @@ Feature: Application login for Cards payment
 Scenario: Home page default login
 Adding test5 code here eclipse copy
 Given User is on netbanking login page
-test4 added from github - fixed bug
+test4 added from github - c5 fixed bug
 When user logs in with valid un and pw
 Then homepage is displayed
 test7 c4
